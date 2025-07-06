@@ -1,0 +1,77 @@
+Estructura de Clasificación de Tipos de Rimas en el Rap
+Vamos a categorizar las rimas por su estructura, complejidad y el ingenio que demuestran.
+
+1. Basadas en la Sonoridad y Estructura
+Estas rimas se centran en cómo suenan las palabras al final de las líneas y cómo se organizan.
+
+Rima Consonante Perfecta: Es el tipo de rima más común y directo. Coinciden tanto los sonidos vocálicos como los consonánticos a partir de la última vocal acentuada.
+
+Ejemplo: "pasión" / "razón" ; "vivir" / "sentir"
+
+Rima Asonante: Solo coinciden los sonidos vocálicos a partir de la última vocal acentuada, mientras que las consonantes pueden variar. Aporta musicalidad sin ser tan obvia como la consonante.
+
+Ejemplo: "casa" / "maga" ; "frío" / "río" (frecuente en canciones populares)
+
+Rima Interna: Son rimas que ocurren dentro de una misma línea o frase, no solo al final. Demuestran un control métrico y de flujo superior.
+
+Ejemplo: "Mi mente es un torrente que de repente te sorprende."
+
+Rima Múltiple (Multisilábica / Rima en Cadena): Implica que dos o más sílabas consecutivas en una palabra riman con dos o más sílabas de otra palabra o palabras. Es una muestra de gran habilidad y complejidad lírica.
+
+Ejemplo: "Si tu rap es tan rancio, el mío no tiene cansancio." ; "No te miento, yo no siento el lamento de lo que invento."
+
+Rima Cruzada / Entrelazada: Las rimas no siguen un patrón AABB simple, sino que se alternan o se distribuyen a lo largo de varias líneas (ABABA, ABAB, etc.). Muestra mayor elaboración en la estructura de la estrofa.
+
+Ejemplo:
+"El sol se esconde (A)
+detrás del monte (B)
+mientras mi alma responde (A)
+a un nuevo horizonte (B)"
+
+Rima Encadenada (o Enlazada): Cuando la última palabra de una línea rima con una palabra en medio de la siguiente línea, o hay una conexión fonética constante que fluye de una línea a otra. Crea un efecto de continuidad.
+
+Ejemplo: "Mis versos son fuego, te doy un ruego con el que luego..."
+
+2. Basadas en el Ingenio y Contenido
+Aquí el foco no es solo la sonoridad, sino la inteligencia, creatividad y el mensaje que se transmite a través de la conexión de las palabras.
+
+Rima con Juego de Palabras (Wordplay): Uso de la ambigüedad, homofonía, polisemia o doble sentido para crear una rima ingeniosa, a menudo con un toque de humor o crítica.
+
+Ejemplo: "No me retires, que en mi rap no hay tires." (Tires de neumáticos vs. "no hay retires" de retirada).
+
+Rima Concepto / Temática: La rima no es solo una coincidencia sonora, sino que las palabras que riman refuerzan un concepto, una idea o un tema específico de la letra.
+
+Ejemplo: "Mi pluma es la espada, mi rima la batalla acabada." (Ambas palabras refuerzan el tema de la lucha o el combate lírico).
+
+Rima Visual: Las palabras que riman no solo suenan similar, sino que evocan imágenes o escenarios similares, o juegan con elementos que se ven.
+
+Ejemplo: "Con la luz de la luna, mi rima es una cuna de fortuna." (Luna y cuna son opuestos, pero la imagen puede ser calmante).
+
+Rima con Aliteración / Asonancia con Propósito: Más allá de solo rimar, hay una repetición intencional de sonidos consonánticos (aliteración) o vocálicos (asonancia) a lo largo de una frase o rima para crear un efecto rítmico o énfasis.
+
+Ejemplo (Aliteración): "La cruel corriente carga el caso."
+
+Ejemplo (Asonancia): "El sol rojo oscurece mi corazón, es un gran dolor."
+
+Rima Incompleta / Flexible: No es una rima perfecta, pero la sonoridad es lo suficientemente cercana para que el oído la acepte, lo que permite al MC mayor libertad creativa y evita sonar forzado. A veces se usa para mantener el flow sin sacrificar el mensaje.
+
+Ejemplo: "Mi voz te atroza." ; "Mi mente es un presente."
+
+Rima Falsa / Forzada (a evitar): Aunque no es una "habilidad" deseable, es importante reconocerla. Ocurre cuando el MC fuerza una rima que no coincide bien o altera la pronunciación de una palabra para que rime, haciendo que suene antinatural.
+
+Ejemplo: "Vengo de la calle, donde nadie me halle." (Si se pronuncia "calle" como "calle-e" para rimar con "halle").
+
+3. Basadas en la Métrica y el Flow
+Estas categorías tienen que ver con cómo las rimas encajan en el ritmo general de la canción y la longitud de las sílabas.
+
+Rima Métrica: Las sílabas tónicas de las palabras que riman coinciden no solo en sonido, sino también en su posición rítmica dentro de la barra o frase. Esto crea un flow muy armónico y satisfactorio.
+
+Ejemplo: "Un ritmo constante, un verso elegante." (Las sílabas tónicas en "rit-" y "ver-" caen en el mismo pulso).
+
+Rima Fluida: La rima se integra de manera tan natural en el flow que apenas se percibe como una "rima forzada", sino como una parte orgánica de la frase.
+
+Rima Pausada / en Off-Beat: La rima ocurre en un punto inesperado del beat o con una pausa estratégica, jugando con las expectativas del oyente y demostrando control del tiempo.
+
+Ejemplo: Una rima que se completa después de una pequeña pausa, creando suspenso o énfasis.
+
+Al analizar una batalla de rap, no solo contarás cuántas rimas hay, sino que identificarás qué tipo de rimas está usando cada MC. Un MC con alto skill no solo tendrá muchas rimas, sino que presentará una variedad de estos tipos, especialmente las más complejas (multisilábicas, internas, con wordplay) y las que demuestran un gran control métrico y de flow.
