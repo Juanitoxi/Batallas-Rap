@@ -33,7 +33,7 @@ def load_text_file():
 
 def get_target_ngrams():
     # Solicitar al usuario que ingrese un bigrama
-    bigram = input("Ingrese un bigrama (Ejemplo: puerto vallarta): ").lower()
+    bigram = input("Ingrese un bigrama (Ejemplo: YO SOY): ").lower()
 
     # Solicitar al usuario que ingrese dos palabras
     word_1 = input("Ingrese la primera palabra objetivo: ").lower()

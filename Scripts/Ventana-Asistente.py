@@ -4,7 +4,7 @@ import time
 import sys
 
 # estamos haciendo el subproceso para analizar discursos, para el caso practico analizaremos
-# el discurso de un RAPEROS, politico
+# el discurso de un RAPEROS
 
 
 #Estructura de actividades: (nombre, [scripts])
@@ -18,32 +18,37 @@ Transfo_Divide_Audio = "C:\\Users\\PEPE\\Documents\\Personal\\MCP\\RedBullBatall
 #transformar desde el TEXTO todo el que encuentre en la carpeta mencionada en la ruta abajo
 Transfo_Audio_Texto = "C:\\Users\\PEPE\\Documents\\Personal\\MCP\\RedBullBatallas-20-años\\Scripts\\Audio_Texto.py"
 
+#una vez logrado obtener el texto ya podríamos hacer un breve análisis:
+Grafica_50_Palabras = "C:\\Users\\PEPE\\Documents\\Proyectos-Data\\Scripts\\Grafica-50-Palabras.py"
 
-#Union_Gramatical
+#Union_Gramatical se refiero a el analisis concentrado en excel
+#
 union_gramatical = "C:\\Users\\PEPE\\Documents\\Personal\\MCP\\RedBullBatallas-20-años\\Scripts\\Union_Gramatical.py"
 
-#grafica de barras de toda una conversacion
+#grafica de barras de toda una conv
+#no me acuerdo para que era este
 Graficar_Dialogo = "C:\\Users\\PEPE\\Documents\\Personal\\MCP\\RedBullBatallas-20-años\\Scripts\\Graficar_Dialogo.py"
 
 
 #Seguimiento de palabras, Bi_Grama, palabra1 y palabra2
 seguimiento_palabras = "C:\\Users\\PEPE\\Documents\\Personal\\MCP\\RedBullBatallas-20-años\\Scripts\\Seguim_Palabras.py"
 
-
+Terminacion_gramatical = "C:\\Users\\PEPE\\Documents\\Proyectos-Data\\Scripts\\Terminacion_Grafica.py"
 #Actividades 
 actividades = {
 
     #TRANSFORMACIONES
 
-    "0-Transfo_Video_Audio": Transfo_Video_Audio,
-    "1-Transfo_Divide_Audio": Transfo_Divide_Audio,
-    "2-Transfo_Audio_Texto": Transfo_Audio_Texto,
+    "0-Video_Audio": Transfo_Video_Audio,
+    "1-Divide_Audio": Transfo_Divide_Audio,
+    "2-Audio_Texto": Transfo_Audio_Texto,
+    
   
-    "3-union_gramatical": union_gramatical,
-
-    "4-Graficar_Dialogo": Graficar_Dialogo,
-    "5-seguimiento_palabras": seguimiento_palabras,
-
+    "3-Unión_Gramatical": union_gramatical,
+     
+    "4-Graficar_50_Palabras": Grafica_50_Palabras,
+    "5-Seguimiento_Palabras": seguimiento_palabras,
+    "6-Terminaciones": Terminacion_gramatical
 
     
 

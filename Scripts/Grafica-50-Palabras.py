@@ -6,6 +6,12 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from collections import Counter
 
+
+#Este script grafica las palabras mas usadas a partir de un .TXT.
+#7-7-25-6:25am estamos actualizando el script con fines de mejoras
+
+
+
 # Download stopwords if not already downloaded
 import nltk
 nltk.download('stopwords')
@@ -25,14 +31,14 @@ def load_text_file():
     root.destroy()
 
     if not selected_file:
-        print("No file was selected.")
+        print("No se ha selecionado ningun archivo.")
         return None
 
     try:
         with open(selected_file, 'r', encoding="utf-8") as file:
             return file.read().lower().strip()
     except Exception as e:
-        print(f"Error loading the file: {e}")
+        print(f"Error al cargar archivo: {e}")
         return None
 
 def get_sentiment(sentence):
@@ -66,9 +72,9 @@ def plot_most_frequent_words(words):
     # Plot the 50 most frequent words
     plt.figure(figsize=(12, 6))
     plt.bar(top_words, counts, color='blue')
-    plt.title('50 Most Frequent Words')
-    plt.xlabel('Word')
-    plt.ylabel('Frequency')
+    plt.title('50 Palabras Más Frecuentes en toda la batalla')
+    plt.xlabel('Palabra')
+    plt.ylabel('Frecuencia')
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
